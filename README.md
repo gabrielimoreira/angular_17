@@ -2,7 +2,7 @@
 
 > Projeto realizado durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 **Angular 17** • Framework front-end para construção de SPAs.
 
@@ -14,19 +14,54 @@
 
 **JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
-## 🚀 Instalando ProductStore
+## 🚀 Rodando o ProductStore
 
 ```
 <passo1>
 <passo2>
 ```
 
-## ☕ Usando ProductStore
 
-Para usar <nome_do_projeto>, siga estas etapas:
+### 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Você instalou a versão mais recente do `Node.js`
+- Você instalou um gerenciador de pacotes: `npm` ou `yarn`.
+- Você instalou o `Angular CLI`.
+
+
+### 📦 Instalando as Dependências
+
+1. Clone o repositório:
+```
+git clone https://github.com/gabrielimoreira/angular_17.git
+cd product-store
+```
+
+2. Instale as dependências:
+```
+npm install | yarn install
+```
+
+
+### ☕ Usando ProductStore
+
+Para usar <ProductStore>, inicie o projeto com:
 
 ```
-<exemplo_de_uso>
+npm start | yarn start
 ```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> Isso iniciará o servidor de desenvolvimento do Angular. Normalmente, a aplicação estará disponível em: ➡️ http://localhost:4200/
+
+
+### 💾 API Fake com JSON Server
+
+Se o projeto depende de um backend fake, você pode iniciar o JSON Server com:
+
+```
+npm run json-server
+```
+
+> Isso iniciará uma API local disponível em http://localhost:3000 (caso o json-server esteja configurado no package.json).
