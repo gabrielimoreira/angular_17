@@ -9,25 +9,22 @@
 
 ### 🛠️ Tecnologias
 
-**Angular 17** • Framework front-end para construção de SPAs.
+- **Angular 17** • Framework front-end para construção de SPAs.
 
-**TypeScript 5.4** • Superset do JavaScript com tipagem estática.
+- **TypeScript 5.4** • Superset do JavaScript com tipagem estática.
 
-**Angular Material** • Biblioteca de componentes UI baseada no Material Design.
+- **Angular Material** • Biblioteca de componentes UI baseada no Material Design.
 
-**RxJS** • Biblioteca para programação reativa com Observables.
+- **RxJS** • Biblioteca para programação reativa com Observables.
 
-**JSON Server** • API fake para simulação de backend durante o desenvolvimento.
-
+- **JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
 ### ⚡ Funcionalidades:
 
-    📋 Listagem de produtos
-    ➕ Adição de novos produtos
-    ✏️ Edição de produtos
-    ❌ Exclusão de produtos
-
-
+📋 Listagem de produtos
+➕ Adição de novos produtos
+✏️ Edição de produtos
+❌ Exclusão de produtos
 
 ## 🚀 Rodando o ProductStore
 
