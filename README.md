@@ -1,6 +1,7 @@
-<h1 align="center"> Product Store: Gerenciador de Produtos </h1> <br>
+<h1 align="center"> Product Store: Gerenciador de Produtos</h1>
+<br>
 
-<img src="./src/images/productStore.gif" align="center">
+<img src="./src/images/productStore.gif">
 
 > Projeto realizado durante o curso de atualização do Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
 
