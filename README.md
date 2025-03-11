@@ -2,11 +2,15 @@
 
 > Projeto realizado durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
 
-## 💻 Tecnologias
+## 🛠️ Tecnologias
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.12.
+**Angular 17** • Framework front-end para construção de SPAs.
+**TypeScript 5.4** • Superset do JavaScript com tipagem estática.
+**Angular Material** • Biblioteca de componentes UI baseada no Material Design.
+**RxJS** • Biblioteca para programação reativa com Observables.
+**JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
-## ## 🚀 Instalando ProductStore
+## 🚀 Instalando ProductStore
 
 ```
 <passo1>
