@@ -2,6 +2,8 @@
 
 > Projeto realizado durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
 
+
+
 ### 🛠️ Tecnologias
 
 **Angular 17** • Framework front-end para construção de SPAs.
@@ -14,13 +16,8 @@
 
 **JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
+
 ## 🚀 Rodando o ProductStore
-
-```
-<passo1>
-<passo2>
-```
-
 
 ### 💻 Pré-requisitos
 
@@ -33,13 +30,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ### 📦 Instalando as Dependências
 
-1. Clone o repositório:
+**1.** Clone o repositório:
 ```
 git clone https://github.com/gabrielimoreira/angular_17.git
 cd product-store
 ```
 
-2. Instale as dependências:
+**2.** Instale as dependências:
 ```
 npm install | yarn install
 ```
