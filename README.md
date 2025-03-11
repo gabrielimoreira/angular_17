@@ -22,13 +22,11 @@
 
 ### ⚡ Funcionalidades:
 
-📋 Listagem de produtos
+    📋 Listagem de produtos
+    ➕ Adição de novos produtos
+    ✏️ Edição de produtos
+    ❌ Exclusão de produtos
 
-➕ Adição de novos produtos
-
-✏️ Edição de produtos
-
-❌ Exclusão de produtos
 
 
 ## 🚀 Rodando o ProductStore
