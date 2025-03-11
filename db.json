@@ -1,3 +1,8 @@
 {
-  "products": []
+  "products": [
+    {
+      "title": "Bola de Futebol Americano",
+      "id": "02c8"
+    }
+  ]
 }

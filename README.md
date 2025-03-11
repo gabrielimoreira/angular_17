@@ -1,8 +1,8 @@
 # Projeto ProductStore
 
+<img src="./src/images/productStore.gif">
+
 > Projeto realizado durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
-
-
 
 ### 🛠️ Tecnologias
 
@@ -16,7 +16,6 @@
 
 **JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
-
 ## 🚀 Rodando o ProductStore
 
 ### 💻 Pré-requisitos
@@ -27,20 +26,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou um gerenciador de pacotes: `npm` ou `yarn`.
 - Você instalou o `Angular CLI`.
 
-
 ### 📦 Instalando as Dependências
 
-**1.** Clone o repositório:
-```
-git clone https://github.com/gabrielimoreira/angular_17.git
-cd product-store
-```
+```bash
+# Clone o repositório:
+$ git clone https://github.com/gabrielimoreira/angular_17.git
 
-**2.** Instale as dependências:
-```
-npm install | yarn install
-```
+# Acesse a pasta do projeto:
+$ cd product-store
 
+# Instale as dependências:
+$ npm install | yarn install
+```
 
 ### ☕ Usando ProductStore
 
@@ -51,7 +48,6 @@ npm start | yarn start
 ```
 
 > Isso iniciará o servidor de desenvolvimento do Angular. Normalmente, a aplicação estará disponível em: ➡️ http://localhost:4200/
-
 
 ### 💾 API Fake com JSON Server
 
