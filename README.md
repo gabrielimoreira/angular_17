@@ -1,7 +1,9 @@
 <h1 align="center">ProductStore</h1>
 <br>
 
-<img src="./src/images/productStore.gif">
+<p align="center">
+    <img src="./src/images/productStore.gif">
+</p>
 
 > Projeto realizado durante o curso de atualização do Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
 
