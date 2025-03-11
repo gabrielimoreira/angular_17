@@ -1,4 +1,4 @@
-<h1 align="center"> Product Store: Gerenciador de Produtos</h1>
+<h1 align="center">ProductStore</h1>
 <br>
 
 <img src="./src/images/productStore.gif">
