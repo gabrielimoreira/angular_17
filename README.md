@@ -5,7 +5,11 @@
     <img src="./src/images/productStore.gif">
 </p>
 
-> Projeto realizado durante o curso de atualização do Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube.
+> Projeto de estudo realizado durante o curso de atualização do Angular 17 da Code Dimension.
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube. E proporcionando uma atualização das principais novidades do Angular 17.
 
 ### 🛠️ Tecnologias
 
@@ -43,13 +47,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```bash
 # Clone o repositório:
-$ git clone https://github.com/gabrielimoreira/angular_17.git
+git clone https://github.com/gabrielimoreira/product-store.git
 
 # Acesse a pasta do projeto:
-$ cd product-store
+cd product-store
 
 # Instale as dependências:
-$ npm install | yarn install
+npm install | yarn install
 ```
 
 ### ☕ Usando ProductStore
