@@ -7,7 +7,7 @@
 
 > Projeto de estudo realizado durante o curso de atualização do Angular 17 da Code Dimension.
 
-## Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube. E proporcionando uma atualização das principais novidades do Angular 17.
 
