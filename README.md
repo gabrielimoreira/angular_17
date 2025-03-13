@@ -15,6 +15,21 @@
 
 Este projeto foi desenvolvido durante o curso de Angular 17 da Code Dimension, disponibilizado gratuitamente pelo canal no Youtube. E proporcionando uma atualização das principais novidades do Angular 17.
 
+Trata-se de uma aplicação de gerenciamento CRUD de produtos.
+
+
+### ⚡ Funcionalidades
+
+O projeto conta com diversas funcionalidades, como:
+
+- 📋 Listagem de produtos
+
+- ➕ Adição de novos produtos
+
+- ✏️ Edição de produtos
+
+- ❌ Exclusão de produtos
+
 ### 🛠️ Tecnologias
 
 - **Angular 17** • Framework front-end para construção de SPAs.
@@ -27,15 +42,9 @@ Este projeto foi desenvolvido durante o curso de Angular 17 da Code Dimension, d
 
 - **JSON Server** • API fake para simulação de backend durante o desenvolvimento.
 
-### ⚡ Funcionalidades:
 
-- 📋 Listagem de produtos
 
-- ➕ Adição de novos produtos
 
-- ✏️ Edição de produtos
-
-- ❌ Exclusão de produtos
 
 ## 🚀 Rodando o ProductStore
 
