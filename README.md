@@ -5,6 +5,10 @@
     <img src="./src/images/productStore.gif">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Concluído-00875f?style=flat-square">
+</p>
+
 > Projeto de estudo realizado durante o curso de atualização do Angular 17 da Code Dimension.
 
 ## 📌 Sobre o projeto
